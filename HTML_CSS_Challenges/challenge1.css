@@ -1,0 +1,17 @@
+/*--Center Pic--*/
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+/*--End Center Pic--*/
+
+/*--Image Filter--*/
+img {
+    filter: invert(100%);
+    border-radius: 50px;
+}
+
+/*--End Image Filter--*/

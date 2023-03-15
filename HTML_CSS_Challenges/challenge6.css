@@ -1,0 +1,26 @@
+.column {
+    float: left;
+    width: 50%;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+
+h3 {
+    color: rgb(9, 71, 42);
+}
+
+body {
+    color: rgb(9, 71, 42);
+}
+
+div {
+    max-width: 300px;
+    max-height: 300px;
+    background-color: rgb(168, 249, 168);
+}
+

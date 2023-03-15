@@ -1,0 +1,10 @@
+table {
+    border: 3px dashed plum;
+    padding: 10px;
+    text-align: center;
+    width: 50%;
+}
+
+th {
+    background-color:  rgb(255, 222, 255);
+}

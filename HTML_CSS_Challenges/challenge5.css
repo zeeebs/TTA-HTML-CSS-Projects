@@ -1,0 +1,33 @@
+/*---Nav Bar---*/
+.navbar {
+    overflow: hidden;
+    background-color: #a7ddff;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+/*---End Nav Bar---*/
+
+/*---Nav Bar Links---*/
+.navbar a {
+    float: left;
+    display: block;
+    color: #0c496e;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+/*---End Nav Bar Links---*/
+
+/*---Nav Bar Hover---*/
+.navbar a:hover {
+    background: #ddd;
+    color: black;
+}
+/*---End Nav Bar Hover---*/
+
+/*---Main Content---*/
+.main {
+    margin-top: 60px;
+}
+/*---End Main Content---*/

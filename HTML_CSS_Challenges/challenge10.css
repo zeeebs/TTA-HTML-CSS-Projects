@@ -1,0 +1,15 @@
+.container {
+    position: relative;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    font-style: italic;
+}
+
+
+.top-right {
+    position: absolute;
+    top: 50px;
+    right: 16px;
+}
+
