@@ -12,6 +12,6 @@ nav bar, image containers, and a form. You can see the first iteration of the si
 Bootstrap components used include: navbar, jumbotron, form, cards, and dropdowns.
 </p>
     <li><a href="https://github.com/zeeebs/TTA-HTML-CSS-Projects/tree/main/Final%20Assignment"_blank">Portfolio Website</a></li>
-    <p>I created a basic portfolio website that was later updated with JavaScript and more complex CSS.
+    <p>I created a basic portfolio website that was later updated with JavaScript and more complex CSS. You can see the final version on GitHub <a href="https://github.com/zeeebs/zeeebs.github.io">here</a> or the live site <a href="https://zeeebs.github.io/"_blank">here</a>.
 </p>
   </ul>
