@@ -5,7 +5,7 @@ This repository displays samples of projects and Tech Academy assignments that u
   <ul>
     <li><a href="https://github.com/zeeebs/TTA-HTML-CSS-Projects/tree/main/HTML_Website_Project"_blank">One Page Website Assingment</a></li>
     <p>This one-page website includes a menu bar that moves with the page, internal links, a gallery, and a contact form. It is styled with CSS and utilizes a 
-nav bar, image containers, and a form. You can see the first iteration of the site <a href="https://github.com/zeeebs/TTA-HTML-CSS-Projects/tree/main/One-Page%20Website">here</a>
+nav bar, image containers, and a form. You can see the first iteration of the site <a href="https://github.com/zeeebs/TTA-HTML-CSS-Projects/tree/main/One-Page%20Website">here</a>.
 </p>
     <li><a href="https://github.com/zeeebs/TTA-HTML-CSS-Projects/tree/main/bootstrap4_project"_blank">Bootstrap Website</a></li>
     <p>This is another one-page website that includes a menu bar, internal links, a gallery, and a rewards sign-up form that was created using Bootstrap4. Some of the 
